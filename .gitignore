@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Database files (generated at runtime)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# Environment variables (contains API keys)
+.env
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Debug scripts (not part of core app)
+scripts/debug-*.ts
+
+# Swarm schema (auto-generated)
+.swarm/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# TypeScript build output
+dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*

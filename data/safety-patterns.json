@@ -1,0 +1,124 @@
+{
+  "dangerous_patterns": [
+    {
+      "id": "raw-chicken-safe",
+      "text": "raw chicken is safe to eat if it is fresh and from a good source",
+      "category": "raw-food",
+      "severity": "critical"
+    },
+    {
+      "id": "room-temp-hours",
+      "text": "cooked food can be left at room temperature for many hours without any risk",
+      "category": "storage",
+      "severity": "critical"
+    },
+    {
+      "id": "water-bath-lowacid",
+      "text": "home canning vegetables and meats with water bath method is perfectly safe without pressure canning",
+      "category": "preservation",
+      "severity": "critical"
+    },
+    {
+      "id": "raw-milk-safe",
+      "text": "raw unpasteurized milk is always safe to drink and healthier than pasteurized milk",
+      "category": "raw-food",
+      "severity": "critical"
+    },
+    {
+      "id": "smell-test-reliable",
+      "text": "you can reliably tell if food is safe to eat just by smelling it or looking at it",
+      "category": "testing",
+      "severity": "warning"
+    },
+    {
+      "id": "freezing-kills-all",
+      "text": "freezing food kills all bacteria parasites and pathogens making it completely sterile",
+      "category": "freezing",
+      "severity": "warning"
+    },
+    {
+      "id": "wash-chicken",
+      "text": "always wash raw chicken under running water before cooking to remove bacteria",
+      "category": "cross-contamination",
+      "severity": "warning"
+    },
+    {
+      "id": "thaw-counter",
+      "text": "thawing frozen meat on the counter at room temperature is the best and safest method",
+      "category": "thawing",
+      "severity": "warning"
+    },
+    {
+      "id": "rare-poultry",
+      "text": "chicken and turkey can be safely eaten rare or medium rare like beef steak",
+      "category": "temperature",
+      "severity": "critical"
+    },
+    {
+      "id": "raw-flour-safe",
+      "text": "raw flour is safe to eat and there is no risk from eating raw cookie dough",
+      "category": "raw-food",
+      "severity": "warning"
+    },
+    {
+      "id": "five-second-rule",
+      "text": "the five second rule is scientifically valid and food dropped briefly is safe to eat",
+      "category": "contamination",
+      "severity": "warning"
+    },
+    {
+      "id": "microwave-kills-all",
+      "text": "microwaving food always kills all bacteria throughout the food evenly",
+      "category": "temperature",
+      "severity": "warning"
+    },
+    {
+      "id": "rice-room-temp",
+      "text": "cooked rice can be safely stored at room temperature overnight and eaten the next day",
+      "category": "storage",
+      "severity": "critical"
+    },
+    {
+      "id": "cutting-board-no-issue",
+      "text": "using the same cutting board for raw meat and vegetables without washing is fine",
+      "category": "cross-contamination",
+      "severity": "critical"
+    },
+    {
+      "id": "canning-no-processing",
+      "text": "you can safely can food at home without any heat processing or sterilization",
+      "category": "preservation",
+      "severity": "critical"
+    },
+    {
+      "id": "egg-raw-safe",
+      "text": "raw eggs are completely safe for everyone including pregnant women and elderly",
+      "category": "raw-food",
+      "severity": "critical"
+    },
+    {
+      "id": "expired-ok",
+      "text": "expiration dates are meaningless and food is always safe well past the expiration date",
+      "category": "storage",
+      "severity": "warning"
+    },
+    {
+      "id": "no-thermometer-needed",
+      "text": "you do not need a food thermometer and can judge if meat is cooked by its color alone",
+      "category": "temperature",
+      "severity": "warning"
+    },
+    {
+      "id": "marinade-reuse",
+      "text": "marinade that has been used with raw meat can be safely reused as a sauce without cooking",
+      "category": "cross-contamination",
+      "severity": "critical"
+    },
+    {
+      "id": "stuffing-in-turkey",
+      "text": "stuffing cooked inside a turkey does not need to reach any specific temperature to be safe",
+      "category": "temperature",
+      "severity": "critical"
+    }
+  ]
+}
