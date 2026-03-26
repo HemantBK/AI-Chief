@@ -5,7 +5,7 @@ Thanks for your interest in contributing! Here's how to get started.
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/ai-chef.git`
+2. Clone your fork: `git clone https://github.com/HemantBK/AI-Chief.git`
 3. Install dependencies: `npm install`
 4. Copy env file: `cp .env.example .env`
 5. Start dev server: `npm run dev`
