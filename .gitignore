@@ -9,8 +9,8 @@ data/*.db-shm
 # Environment variables (contains API keys)
 .env
 
-# Claude Code local settings
-.claude/settings.local.json
+# Claude Code config (local tooling)
+.claude/
 
 # Debug scripts (not part of core app)
 scripts/debug-*.ts
