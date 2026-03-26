@@ -85,8 +85,6 @@ Real-time observability into safety scores, query categories, and flagged respon
 
 </details>
 
-> **Tip:** Replace these ASCII mockups with real screenshots after running the app. Take screenshots at `http://localhost:3000` and `http://localhost:3000/#dashboard`.
-
 ---
 
 ## Features
